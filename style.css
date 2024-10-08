@@ -551,7 +551,8 @@ div.rotatorbox a:hover h2 {
 }
 
 div.headerbox {
-    background-color: transparent !important
+    background-color: transparent !important;
+    background: no-repeat;
 }
 
 div.headerbox div.title {
